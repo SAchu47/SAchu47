@@ -13,7 +13,7 @@
 </div> 
 </div>
 
-<div class="flex-row">
+<div class="d-flex flex-row">
 <div>
  <b>Some Statistics About Me </b>
   
