@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
-<h3 align="center">🚀 Backend Developer | Competitive Programmer | MERN Stack | Open Source ♥ | Devops 🚀</h3>
-
+<h3 align="center">🚀 Backend Developer| MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
@@ -10,5 +10,3 @@
   - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
   - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.  
 <div>
-
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
