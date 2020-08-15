@@ -10,6 +10,9 @@
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div>
+
 ## Some Statistics About Me
+
+
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=SAchu47&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
