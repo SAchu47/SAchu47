@@ -7,6 +7,11 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures, Systems Design and Frontend Developement.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
-<div>
+</div>
+
+<div width = "35%" align="right"> 
+  ## Some Statistics About Me
+  ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=SAchu47&&show_icons=true&title_color=ffffff&icon_color=bb2acf& text_color=daf7dc&bg_color=151515)<br>
+</div>
