@@ -13,10 +13,8 @@
 </div> 
 </div>
 
-<div style="display: inline-block;">
+<h3>Some Statistics About Me </h3>
 <div align="right">
-<b>Some Statistics About Me </b>
-
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=SAchu47&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 </div>
 <div align="left" style="display: inline-block;"> 
@@ -26,4 +24,3 @@
   <p>
    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </div> 
-</div>
