@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
 <h3 align="center">🚀 Backend Developer| MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="200px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
