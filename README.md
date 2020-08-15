@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
+<h3 align="center">🚀 Backend Developer | Competitive Programmer | MERN Stack | Open Source ♥ | Devops 🚀</h3>
 
-<!--
-**SAchu47/SAchu47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+  - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+  - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+  - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.  
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
