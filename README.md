@@ -15,7 +15,9 @@
 
 <h3>Some Statistics About Me </h3>
 <div align="right">
-![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=SAchu47&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+  
+![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=SAchu47&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 </div>
 <div align="left" style="display: inline-block;"> 
   <h3> 💻 Languages and Tools </h3>
