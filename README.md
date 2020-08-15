@@ -14,7 +14,7 @@
 </div>
 
 <div width = "35%" align="right">
-<b>Some Statistics About Me </b>
+<b align="center">Some Statistics About Me </b>
 
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=SAchu47&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
