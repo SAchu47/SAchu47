@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
 <h3 align="center">🚀 Backend Developer| MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
-<img width = "35%" align="right" alt="PIC" height="200px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="250px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
@@ -12,7 +12,7 @@
 </div>
 
 <div width = "35%" align="right">
-## Some Statistics About Me
+<h2>Some Statistics About Me </h2>
 
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=SAchu47&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
