@@ -8,7 +8,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects MERN.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🌱 &nbsp; Learning more about Backend Architectures.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div> 
 </div>
